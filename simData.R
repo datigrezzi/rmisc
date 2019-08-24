@@ -97,7 +97,7 @@ aoilist <- function(aois){
     return(aoishapelist)
 }
 
-if(FALSE){
+if(TRUE){
     # set random seed for replicability
     set.seed(seed = 111)
     # generate aois
